@@ -3,14 +3,7 @@
 
 I'm 3rd year Computer Science major. 
 
-I’m currently learning:
-Java 
-Python 
-C
-C++
-Html 
-CSS 
-JavaScript 
+I’m currently learning: Java, Python C, C++, Html, CSS, JavaScript 
 
 While working with frameworks such as Node.js, React.js, Flask, Django. 
 
