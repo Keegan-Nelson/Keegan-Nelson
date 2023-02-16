@@ -3,11 +3,14 @@
 </div>  
   
 
-### <div align="center">Hello my name is Keegan Nelson, I'm 3rd year Computer Science major.  :desktop_computer:</div>   
+# <div align="center">Hello my name is Keegan Nelson, I'm 3rd year Computer Science major.  :desktop_computer:</div>
+
+### <div align="center">Actively looking for internships regarding **Software Development** and or **Cybersecurity**.</div>
+       
 
  <br/>
 
-- Actively working with **languages** such as Java, Python, C, C++, Html, CSS, JavaScript. 
+- At the moment I'm working with **languages** such as Java, Python, C, C++, Html, CSS, JavaScript. 
 
 - While using **frameworks** such as Spring, Flask and Bootsrap.
 
@@ -15,9 +18,6 @@
 
         - Along with the use of Java to read and write to a relational database PostgreSQL
   
--  I'm looking for internships regarding **Software Development** and or **Cybersecurity**.  
-  
-
 <br/>  
 
 
