@@ -3,16 +3,19 @@
 </div>  
   
 
-### <div align="center">I'm Keegan Nelson, I'm 3rd year Computer Science major.  🚀</div>   
-  
+### <div align="center">Hello my name is Keegan Nelson, I'm 3rd year Computer Science major.  :desktop_computer:</div>   
 
--  I’m currently learning: Java, Python, C, C++, Html, CSS, JavaScript 
-  
+ <br/>
 
--  While working with frameworks such as Spring, Flask and Bootsrap
-  
+- Actively working with **languages** such as Java, Python, C, C++, Html, CSS, JavaScript. 
 
--  I'm currently looking for internships regarding Software Development and or Cybersecurity  
+- While using **frameworks** such as Spring, Flask and Bootsrap.
+
+- Currently learning how to implement **RESTful API's** in Java using Spring Boot which can later be deployed to the cloud.
+
+        - Along with the use of Java to read and write to a relational database PostgreSQL
+  
+-  I'm looking for internships regarding **Software Development** and or **Cybersecurity**.  
   
 
 <br/>  
