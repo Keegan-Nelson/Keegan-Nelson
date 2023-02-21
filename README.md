@@ -15,7 +15,7 @@
 - While using **frameworks** such as Spring, Flask and Bootsrap.
 
 - Currently learning how to implement **RESTful API's** in Java using Spring Boot which can later be deployed to the cloud.
-  - Along with the use of Java to read and write to the relational database PostgreSQL
+  - Along with using Java to read and write to the relational database PostgreSQL
 
         
   
