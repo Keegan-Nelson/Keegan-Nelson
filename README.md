@@ -10,7 +10,7 @@
 
  <br/>
 
-- At the moment I'm working with **languages** such as Java, Python, C, C++, Html, CSS, JavaScript. 
+- At the moment I'm working with **languages** such as Java, Python, Html, CSS, JavaScript, C, C++. 
 
 - While using **frameworks** such as Spring, Flask and Bootsrap.
 
