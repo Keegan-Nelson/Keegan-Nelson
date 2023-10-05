@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">Hello my name is Keegan Nelson, I'm 3rd year Computer Science major.  :desktop_computer:</div>
+# <div align="center">Hello my name is Keegan Nelson, I'm 4th year Computer Science major.  :desktop_computer:</div>
 
 ### <div align="center">Actively looking for internships regarding **Software Development**, **Cybersecurity** and **IT**.</div>
        
