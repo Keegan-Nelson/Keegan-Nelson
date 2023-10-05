@@ -5,7 +5,7 @@
 
 # <div align="center">Hello my name is Keegan Nelson, I'm 3rd year Computer Science major.  :desktop_computer:</div>
 
-### <div align="center">Actively looking for internships regarding **Software Development** and or **Cybersecurity**.</div>
+### <div align="center">Actively looking for internships regarding **Software Development**, **Cybersecurity** and **IT**.</div>
        
 
  <br/>
