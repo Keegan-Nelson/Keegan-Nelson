@@ -12,7 +12,7 @@
 
 - At the moment I'm working with **languages** such as Java, Python, Html, CSS, JavaScript, C, C++. 
 
-- While using **frameworks** such as Spring, Flask and Bootsrap.
+- While using **frameworks** such as Spring, Flask, Bootstrap, React.
 
 - Currently learning how to implement **RESTful API's** in Java using Spring Boot which can later be deployed to the cloud.
   - Along with using Java to read and write to the relational database PostgreSQL
