@@ -12,7 +12,7 @@
  
 - Last summer I worked at Dynatrace as an Intern, where I deployed Dynatrace Observability Software to AWS. This experience provided me with valuable insights into cloud infrastructure and enhanced my technical skillset.
 
-- Proficient in Java and Python, and experienced with C++, I currently leverage these languages along with some basic familiarity with JavaScript, GO, and HTML. Additionally, I also have experience working with **frameworks** such as Spring, Flask, Boostrap, and React.
+- Proficient in Java and Python, and experienced with C++, I currently leverage these languages along with some basic familiarity with JavaScript, GO, and HTML. Additionally, I also have experience working with **frameworks** such as Spring, Flask, Boostrap, and React. Also some familiarity with packages such as Scikit-learn, NumPy, and Matplotlib.
 
 - Previously, I focused on implementing RESTful APIs in Java using Spring Boot, which I later deployed to the cloud. These APIs effectively interfaced with relational databases like PostgreSQL, enabling seamless data retrieval and manipulation.
 
