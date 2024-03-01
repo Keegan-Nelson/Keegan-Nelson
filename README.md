@@ -3,22 +3,21 @@
 </div>  
   
 
-# <div align="center">Hello my name is Keegan Nelson, I'm 4th year Computer Science major.  :desktop_computer:</div>
+# <div align="center">Hi I'm Keegan Nelson a senior Computer Science major at MSU Denver with intent to graduate May 2024.  :desktop_computer:</div>
 
 ### <div align="center">Actively looking for jobs regarding **Software Development**, **Cybersecurity** and **IT**.</div>
        
 
  <br/>
+ 
+- Last summer I worked at Dynatrace as an Intern, where I deployed Dynatrace Observability Software to AWS. This experience provided me with valuable insights into cloud infrastructure and enhanced my technical skillset.
 
-- At the moment I'm working with **languages** such as Java, Python, Html, CSS, JavaScript, C, C++. 
+- Proficient in Java and Python, and experienced with C++, I currently leverage these languages along with some basic familiarity with JavaScript, GO, and HTML. Additionally, I also have experience working with **frameworks** such as Spring, Flask, Boostrap, and React.
 
-- While using **frameworks** such as Spring, Flask, Bootstrap, React.
+- Previously, I focused on implementing RESTful APIs in Java using Spring Boot, which I later deployed to the cloud. These APIs effectively interfaced with relational databases like PostgreSQL, enabling seamless data retrieval and manipulation.
 
-- Recently learned how to implement **RESTful API's** in Java using Spring Boot which can later be deployed to the cloud.
-  - Along with using Java to read and write to the relational database PostgreSQL
-
-        
-  
+- Passionate about exploring advancements in machine learning, deep learning, object recognition, and other cutting-edge technologies in artificial intelligence, I am eager to further develop my skills and contribute to projects in these fields.
+- 
 <br/>  
 
 
