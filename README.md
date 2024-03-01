@@ -5,7 +5,7 @@
 
 # <div align="center">Hi I'm Keegan Nelson a senior Computer Science major at MSU Denver with intent to graduate May 2024.  :desktop_computer:</div>
 
-### <div align="center">Actively looking for jobs regarding **Software Development**, **Cybersecurity** and **IT**.</div>
+### <div align="center">Actively looking for jobs regarding **Software Development**, **Artificial Intelligence**, **Cybersecurity**, **IT** and **Data Science**.</div>
        
 
  <br/>
