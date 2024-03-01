@@ -17,7 +17,7 @@
 - Previously, I focused on implementing RESTful APIs in Java using Spring Boot, which I later deployed to the cloud. These APIs effectively interfaced with relational databases like PostgreSQL, enabling seamless data retrieval and manipulation.
 
 - Passionate about exploring advancements in machine learning, deep learning, object recognition, and other cutting-edge technologies in artificial intelligence, I am eager to further develop my skills and contribute to projects in these fields.
-- 
+
 <br/>  
 
 
